@@ -1,7 +1,7 @@
 # C Basic Practice — 4 Programs
 
 Beginner-friendly C programs:
-1. Hello World
+1. Hello World,
 2. Sum of Two Numbers
 3. Even or Odd
 4. Multiplication Table
